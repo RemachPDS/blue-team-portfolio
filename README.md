@@ -1,4 +1,4 @@
-# 🛡️ Blue Team Portfolio
+- Blue Team Portfolio
 
 Este repositorio reúne mi aprendizaje y práctica como futuro analista de ciberseguridad orientado al Blue Team.
 
@@ -8,9 +8,9 @@ Incluye:
 
 ---
 
-## 📘 Contenido
+- Contenido
 
-### 1. Resoluciones CTF 
+- 1. Resoluciones CTF 
 Desafíos resueltos donde practico:
 - Análisis de logs
 - Respuesta a incidentes
@@ -21,13 +21,13 @@ Desafíos resueltos donde practico:
 
 ---
 
-### 2. Notas de Estudio
+- 2. Notas de Estudio
 Resúmenes breves y prácticos de temas fundamentales en seguridad defensiva.
 
 📁 Carpeta: [`study-notes/`](study-notes/)
 
 ---
 
-## 🚀 Objetivo
+- Objetivo
 Formarme como profesional del Blue Team desde la base, construyendo conocimiento práctico y teórico, documentado de forma abierta y reutilizable.
 
