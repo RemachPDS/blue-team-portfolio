@@ -3,8 +3,8 @@
 Este repositorio reúne mi aprendizaje y práctica como futuro analista de ciberseguridad orientado al Blue Team.
 
 Incluye:
-- 🧩 Writeups de CTFs defensivos (TryHackMe, CyberDefenders, Blue Team Labs)
-- 📚 Resúmenes de estudio organizados por tema (Linux, redes, MITRE ATT&CK, SIEM, etc.)
+-  Writeups de CTFs defensivos (TryHackMe, CyberDefenders, Blue Team Labs)
+-  Resúmenes de estudio organizados por tema (Linux, redes, MITRE ATT&CK, SIEM, etc.)
 
 ---
 
@@ -17,14 +17,14 @@ Desafíos resueltos donde practico:
 - Identificación de IOCs
 - Investigación de tráfico de red
 
-📁 Carpeta: [`ctf/`](ctf/)
+Carpeta: [`ctf/`](ctf/)
 
 ---
 
 - 2. Notas de Estudio
 Resúmenes breves y prácticos de temas fundamentales en seguridad defensiva.
 
-📁 Carpeta: [`study-notes/`](study-notes/)
+Carpeta: [`study-notes/`](study-notes/)
 
 ---
 
